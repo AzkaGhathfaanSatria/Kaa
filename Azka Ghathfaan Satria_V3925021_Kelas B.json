@@ -1,0 +1,517 @@
+{
+    "aplikasi_pemantau_pemerintahan": {
+        "Anggota_DPR_Situs_Resmi_DPR": [
+            {
+                "nama": "Leon S Kennedy",
+                "partai": "Capcom",
+                "dapil": "Raccon City"
+            },
+            {
+                "nama": "Miles Morales",
+                "partai": "PlayStation",
+                "dapil": "Harlem District"
+            },
+            {
+                "nama": "Kratos",
+                "partai": "PlayStation",
+                "dapil": "Yunani"
+            },
+            {
+                "nama": "V",
+                "partai": "CD Projekt Red",
+                "dapil": "Night City"
+            },
+            {
+                "nama": "Sephiroth",
+                "partai": "Square Enix",
+                "dapil": "Gaia"
+            },
+            {
+                "nama": "Arthur Morgan",
+                "partai": "Rockstar",
+                "dapil": "Valentine"
+            },
+            {
+                "nama": "Ellie",
+                "partai": "PlayStation",
+                "dapil": "Jackson"
+            },
+            {
+                "nama": "Nathan Drake",
+                "partai": "PlayStation",
+                "dapil": "Uncharted"
+            },
+            {
+                "nama": "Jill Valentine",
+                "partai": "Capcom",
+                "dapil": "Raccon City"
+            },
+            {
+                "nama": "Dante",
+                "partai": "Capcom",
+                "dapil": "DMC"
+            },
+            {
+                "nama": "Chris Redfield",
+                "partai": "Capcom",
+                "dapil": "Raccon City"
+            },
+            {
+                "nama": "Subzero",
+                "partai": "WarnerBros",
+                "dapil": "Netherrealm"
+            },
+            {
+                "nama": "Solid Snake",
+                "partai": "Konami",
+                "dapil": "MGS"
+            },
+            {
+                "nama": "Doom Guy",
+                "partai": "Bethesda",
+                "dapil": "Doom"
+            },
+            {
+                "nama": "Hollow Knight",
+                "partai": "Team Cherry",
+                "dapil": "Hallownest"
+            },
+            {
+                "nama": "Jin Kazama",
+                "partai": "Bandai Namco",
+                "dapil": "Tekken"
+            },
+            {
+                "nama": "Crash Bandicoot",
+                "partai": "Activision",
+                "dapil": "Wumpa Island"
+            },
+            {
+                "nama": "Alan Wake",
+                "partai": "Remedy Entertainment",
+                "dapil": "Bright Falls"
+            },
+            {
+                "nama": "Jin Sakai",
+                "partai": "PlayStation",
+                "dapil": "Tsushima Island"
+            },
+            {
+                "nama": "Joker",
+                "partai": "Sega",
+                "dapil": "Metaverse"
+            },
+            {
+                "nama": "Ann Takamaki",
+                "partai": "Sega",
+                "dapil": "Metaverse"
+            },
+            {
+                "nama": "Yu Narukami",
+                "partai": "Sega",
+                "dapil": "Inaba"
+            },
+            {
+                "nama": "Makoto Yuki",
+                "partai": "Sega",
+                "dapil": "Iwadotai"
+            },
+            {
+                "nama": "Vergil",
+                "partai": "Capcom",
+                "dapil": "DMC"
+            },
+            {
+                "nama": "Claire Redfield",
+                "partai": "Capcom",
+                "dapil": "Raccon City"
+            }
+        ],
+        "Pengeluaran_Projek_Portal_Data_Indonesia": [
+            {
+                "projek": "Pembangunan ulang Raccon City",
+                "pengeluaran": 5000000000000,
+                "selesai": false
+            },
+            {
+                "projek": "Pengembangan BOW",
+                "pengeluaran": 250000000000,
+                "selesai": true
+            },
+            {
+                "projek": "Inisiatif Andromeda",
+                "pengeluaran": 100000000000,
+                "selesai": true
+            },
+            {
+                "projek": "Penelitian Black Mesa",
+                "pengeluaran": 25000000,
+                "selesai": true
+            },
+            {
+                "projek": "Projek Kota Rapture",
+                "pengeluaran": 73000000,
+                "selesai": false
+            },
+            {
+                "projek": "Projek Metal Gear",
+                "pengeluaran": 45000000,
+                "selesai": true
+            },
+            {
+                "projek": "S.T.A.R.S. Initiative",
+                "pengeluaran": 225000000,
+                "selesai": false
+            },
+            {
+                "projek": "Ekspansi Kota Night City",
+                "pengeluaran": 1000000,
+                "selesai": false
+            },
+            {
+                "projek": "Pertahanan Tsushima",
+                "pengeluaran": 15000000,
+                "selesai": false
+            },
+            {
+                "projek": "Eksperimen G-Virus",
+                "pengeluaran": 9000000,
+                "selesai": false
+            },
+            {
+                "projek": "Umbrella Revival Program",
+                "pengeluaran": 15000000,
+                "selesai": true
+            },
+            {
+                "projek": "Nemesis Program",
+                "pengeluaran": 8000000,
+                "selesai": false
+            },
+            {
+                "projek": "Projek Mother Base",
+                "pengeluaran": 3300000,
+                "selesai": false
+            },
+            {
+                "projek": "The Phantom Thieves Operation",
+                "pengeluaran": 67000000,
+                "selesai": false
+            },
+            {
+                "projek": "Projek Ouroboros",
+                "pengeluaran": 80000000,
+                "selesai": true
+            },
+            {
+                "projek": "Pandora’s Vault",
+                "pengeluaran": 24000000,
+                "selesai": true
+            },
+            {
+                "projek": "Projek Hyperion",
+                "pengeluaran": 55000000,
+                "selesai": true
+            },
+            {
+                "projek": "Rencana MK Tournament",
+                "pengeluaran": 22000000,
+                "selesai": true
+            },
+            {
+                "projek": "Penelitian Las Plagas",
+                "pengeluaran": 11000000,
+                "selesai": true
+            },
+            {
+                "projek": "Projek Progenitor Virus",
+                "pengeluaran": 18000000,
+                "selesai": true
+            },
+            {
+                "projek": "Projek Titanfall",
+                "pengeluaran": 23000000,
+                "selesai": true
+            },
+            {
+                "projek": "Panen masal Wumpa Island",
+                "pengeluaran": 3000000,
+                "selesai": true
+            },
+            {
+                "projek": "Pembuatan Bunker anti nuklir",
+                "pengeluaran": 7000000,
+                "selesai": false
+            },
+            {
+                "projek": "implant teknologi ke tubuh manusia",
+                "pengeluaran": 81000000,
+                "selesai": false
+            },
+            {
+                "projek": "Pembentukan organisasi global anti biohazard",
+                "pengeluaran": 91000000,
+                "selesai": true
+            },
+            {
+                "projek": "Produksi Scarecrow Fear Toxin",
+                "pengeluaran": 21000000,
+                "selesai": false
+            }
+        ],
+	"Jadwal_Rapat_Situs_Resmi_DPR_RI": [
+            {
+        	"tanggal": "2007-01-09",
+        	"topik": "Perayaan hari kelahiran Kaa",
+        	"lokasi": "Lab Umbrella"
+            },
+            {
+        	"tanggal": "2007-02-08",
+        	"topik": "Perayaan hari kelahiran Bel",
+       		"lokasi": "Lab Umbrella"
+    	    },
+    	    {
+        	"tanggal": "2007-03-09",
+        	"topik": "Perpajakan",
+       		"lokasi": "Mansion Spencer"
+   	    },
+   	    {
+       		"tanggal": "2007-03-10",
+        	"topik": "Pengeluaran Negara",
+        	"lokasi": "Gedung pertemuan petinggi"
+    	    },
+       	    {
+        	"tanggal": "2007-04-12",
+        	"topik": "Pendapatan Negara",
+        	"lokasi": "Gedung pertemuan petinggi"
+    	    },
+    	    {
+        	"tanggal": "2007-05-25",
+        	"topik": "Perbaikan jalan kota",
+        	"lokasi": "Gedung pertemuan petinggi"
+    	    },
+    	    {
+        	"tanggal": "2007-06-08",
+        	"topik": "Pembangunan fasilitas umum",
+        	"lokasi": "Gedung pertemuan petinggi"
+    	    },
+    	    {
+        	"tanggal": "2007-07-17",
+        	"topik": "Uji coba vaksin",
+        	"lokasi": "Mansion Spencer"
+    	    },
+    	    {
+        	"tanggal": "2007-07-19",
+        	"topik": "Pemindahan satwa dilindungi",
+        	"lokasi": "Mansion Spencer"
+    	    },
+    	    {
+        	"tanggal": "2007-07-25",
+        	"topik": "Pembangunan rumah sakit umum",
+        	"lokasi": "Mansion Spencer"
+    	    },
+    	    {
+        	"tanggal": "2007-08-01",
+        	"topik": "Keamanan data negara",
+        	"lokasi": "Mansion Spencer"
+    	    },
+    	    {
+        	"tanggal": "2007-08-04",
+        	"topik": "Peningkatan kualitas dan jangkauan jaringan internet",
+        	"lokasi": "Mansion Spencer"
+    	    },
+   	    {
+        	"tanggal": "2007-08-08",
+        	"topik": "Pembasmian judi online",
+        	"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-09-09",
+        	"topik": "Peningkatan kualitas produk lokal",
+        	"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-09-19",
+        	"topik": "Bantuan dana untuk kaum kurang mampu",
+        	"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-09-19",
+       		"topik": "Pembagian beasiswa untuk siswa berprestasi",
+       		"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-10-18",
+        	"topik": "Penurunan pajak",
+        	"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-10-29",
+        	"topik": "Peningkatan kualitas pendidikan",
+        	"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-11-03",
+        	"topik": "Inflasi negara",
+        	"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-11-11",
+        	"topik": "Pengurangan utang negara",
+        	"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-12-04",
+        	"topik": "Penghijauan",
+        	"lokasi": "Gedung Dewan"
+    	    },
+    	    {
+        	"tanggal": "2007-12-12",
+        	"topik": "Masalah kepadatan penduduk",
+        	"lokasi": "Mansion Spencer"
+    	    },
+    	    {
+        	"tanggal": "2007-12-18",
+        	"topik": "Kesejahteraan rakyat",
+        	"lokasi": "Mansion Spencer"
+    	    },
+    	    {
+        	"tanggal": "2007-12-25",
+        	"topik": "Pelestarian hewan dan tumbuhan langka",
+        	"lokasi": "Mansion Spencer"
+    	    },
+    	    {
+        	"tanggal": "2007-12-30",
+        	"topik": "Pembangunan tempat wisata untuk menarik minat pendatang asing",
+        	"lokasi": "Mansion Spencer"
+    	    }
+	],
+        "Data_Pemilu_KPU": [
+           {
+        	"provinsi": "Aceh",
+        	"partai": "Capcom",
+        	"suara": 1250000
+           },
+           {
+        	"provinsi": "Sumatera Utara",
+        	"partai": "Square Enix",
+        	"suara": 1420000
+           },
+           {
+        	"provinsi": "Sumatera Barat",
+        	"partai": "Bandai Namco",
+        	"suara": 880000
+           },
+           {
+        	"provinsi": "Riau",
+        	"partai": "Ubisoft",
+        	"suara": 970000
+           },
+           {
+        	"provinsi": "Jambi",
+        	"partai": "Electronic Arts",
+        	"suara": 760000
+           },
+           {
+        	"provinsi": "Sumatera Selatan",
+        	"partai": "Konami",
+        	"suara": 1200000
+           },
+           {
+        	"provinsi": "Bengkulu",
+        	"partai": "Sega",
+        	"suara": 540000
+           },
+           {
+        	"provinsi": "Lampung",
+        	"partai": "Bethesda",
+        	"suara": 830000
+           },
+           {
+         	"provinsi": "DKI Jakarta",
+        	"partai": "Activision",
+        	"suara": 2100000
+           },
+           {
+        	"provinsi": "Banten",
+        	"partai": "Take-Two Interactive",
+        	"suara": 1150000
+           },
+           {
+        	"provinsi": "Jawa Barat",
+        	"partai": "Sony Interactive Entertainment",
+        	"suara": 3200000
+           },
+           {
+        	"provinsi": "Jawa Tengah",
+        	"partai": "Nintendo",
+        	"suara": 2800000
+           },
+           {
+        	"provinsi": "DI Yogyakarta",
+        	"partai": "Atlus",
+        	"suara": 650000
+           },
+           {
+        	"provinsi": "Jawa Timur",
+        	"partai": "Rockstar Games",
+        	"suara": 2950000
+           },
+           {
+        	"provinsi": "Bali",
+        	"partai": "Valve",
+        	"suara": 710000
+           },
+           {
+        	"provinsi": "Nusa Tenggara Barat",
+        	"partai": "Epic Games",
+        	"suara": 660000
+           },
+           {
+        	"provinsi": "Nusa Tenggara Timur",
+        	"partai": "CD Projekt Red",
+        	"suara": 570000
+           },
+           {
+        	"provinsi": "Kalimantan Barat",
+        	"partai": "Blizzard Entertainment",
+        	"suara": 940000
+           },
+           {
+        	"provinsi": "Kalimantan Tengah",
+        	"partai": "Bandai Namco",
+        	"suara": 510000
+           },
+           {
+        	"provinsi": "Kalimantan Selatan",
+        	"partai": "Ubisoft",
+        	"suara": 690000
+           },
+           {
+        	"provinsi": "Kalimantan Timur",
+        	"partai": "Electronic Arts",
+        	"suara": 850000
+           },
+           {
+        	"provinsi": "Sulawesi Utara",
+        	"partai": "Sega",
+        	"suara": 480000
+           },
+           {
+        	"provinsi": "Sulawesi Tengah",
+        	"partai": "Square Enix",
+        	"suara": 610000
+           },
+           {
+        	"provinsi": "Sulawesi Selatan",
+        	"partai": "Capcom",
+        	"suara": 1200000
+           },
+           {
+        	"provinsi": "Papua",
+        	"partai": "Nintendo",
+        	"suara": 400000
+           }
+        ]
+     }
+  }
